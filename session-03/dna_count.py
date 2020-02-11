@@ -3,6 +3,6 @@
 # Our program should calculate the total length, and the number of bases that compound the sequence.
 
 
-CATGTAGACTAG.
+#CATGTAGACTAG.
 
 dna_sep = input("Introduce the sequence:")
